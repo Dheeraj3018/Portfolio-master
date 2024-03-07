@@ -1,0 +1,135 @@
+{
+  "navbar": {
+    "logo": "Dheeraj",
+    "links": ["HOME", "SKILLS", "PROJECTS", "CONTACT"],
+    "hireButton": "Hire Me !"
+  },
+  "home": {
+    "tilted": "Hello !",
+    "contentbanner": "About Me ",
+    "span1": "I am ",
+    "typertext": ["Full Stack Developer", "Quick Learner"],
+    "name": "👋🏻 Dheeraj V.S",
+    "bio": "Being an Enthusiastic & Competitive Team player, Seeking Jobs on Web Development , blended with knowledge of Front-End and Back-End elements, I am mostly prioritizing on understanding Client Requirements and developing the Web Contents from scratch idea to Final Stage. Currently, I am keenly focusing on Front-End Development.",
+    "buttonContent": "LET'S DISCUSS",
+    "resumeContent": "https://drive.google.com/file/d/1_KbS2D2dXDJPKLi6yyaKIjzx0fkoI_hf/view?usp=share_link",
+    "links": {
+      "github": "https://github.com/Dheeraj3018",
+      "linkedin": "https://www.linkedin.com/in/dheeraj-vs/"
+    },
+    "scrollNotifier": "Scroll Down"
+  },
+  "skills": {
+    "contentbanner": "My Skills ",
+    "skills": {
+      "competencies": {
+        "title": "Competencies",
+        "list": [ "Adaptability ","Team Player", "Avid Learner"]
+      },
+      "highlights": [
+        {
+          "content": "Currently pursuing Full Stack Development - BootCamp course at GUVI Geeks"
+        },
+        
+        {
+          "content": "Having Previous Work Experience as a Assistant Manager in Sri Shanmuga Industries(2020-present),Production Management: Orchestrated end-to-end production processes for cattle feed, rice appalam, and vadagam, ensuring seamless operations and adherence to quality standards.Quality Assurance: Implemented rigorous quality control measures to uphold product quality and compliance with industry regulations, resulting in enhanced customer satisfaction and retention.Continuous Improvement Initiatives: Spearheaded continuous improvement initiatives to optimize processes, reduce waste, and enhance overall productivity, resulting in sustained business growth and competitiveness. "
+        }
+        
+      ]
+    },
+    "keyskills": [
+      {
+        "name": "HTML",
+        "image": "https://img.icons8.com/color/256/html-5.png"
+      },
+      {
+        "name": "CSS",
+        "image": "https://img.icons8.com/color/256/css3.png"
+      },
+      {
+        "name": "Javascript",
+        "image": "https://img.icons8.com/fluency/256/javascript.png"
+      },
+      {
+        "name": "BootStrap",
+        "image": "https://img.icons8.com/color/256/bootstrap.png"
+      },
+      {
+        "name": "MongoDB",
+        "image": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"
+      },
+      {
+        "name": "React JS",
+        "image": "https://img.icons8.com/color/256/react-native.png"
+      },
+      {
+        "name": "Material UI",
+        "image": "https://img.icons8.com/color/256/material-ui.png"
+      },
+      {
+        "name": "NodeJS (Express)",
+        "image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"
+      }
+    ]
+  },
+  "projects": {
+    "contentbanner": "My Project",
+    "subheader": "What I Contributed ..!",
+    "projectlists": [
+      {
+        "id": 1,
+        "alt": "Equipment Rental App",
+        "category": "MERN",
+        "image": "https://images.unsplash.com/photo-1556155092-490a1ba16284?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGVjb21tZXJjZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+        "link1Fr": "https://github.com/Dheeraj3018/rentalapp-frontend",
+        "linkBe": "https://github.com/Dheeraj3018/rental-app-backend",
+        "live": "https://warm-centaur-73dc2f.netlify.app/",
+        "title": "Equipment Rental App",
+        "text": "Eqipment Rental App is a beginner level template used for commercial and business use for maintaining Equipments for rental ,orders ",
+        "credentials": " "
+          
+        
+      },
+      {
+        "id": 2,
+        "alt": "E-learning platform",
+        "category": "MERN",
+        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "link1Fr": "https://github.com/Dheeraj3018/capstonefrontend",
+        "linkBe": "https://github.com/Dheeraj3018/backend-capstone ",
+        "live": " https://ephemeral-fairy-b004fc.netlify.app/ ",
+        "title": "E-learning platform",
+        "text": "E-learning platform is beginner level template, to sell online courses,where it has crud authentication,payment integration, operations.  ",
+        "credentials": ""
+                         
+      }
+     
+      
+    
+    ],
+    "visitorAction1": "Front-End",
+    "visitorAction2": "Hosting Link",
+    "visitorAction3": "Back-End"
+  },
+  "contact": {
+    "footerheading": "Networking is always Good 😊 !!",
+    "footersubheading": "Share your feedback below",
+    "basicdata": {
+      "formdata": {
+        "name": "Name",
+        "email": "E-mail Id",
+        "message": "Message"
+      },
+      "formAction": "Send Message"
+    },
+    "Mydetails": {
+      "myemailId": "vsdheeraj17@gmail.com",
+      "myphoneNo": "+91 8883354247",
+      "visitorAction1": "DOWNLOAD RESUME"
+    },
+    "githublink": "https://github.com/Dheeraj3018",
+    "linkedinProfile": "https://www.linkedin.com/in/dheeraj-vs/",
+    "scrollAction": "Go Back to Top",
+    "Copyrights": "Made by Dheeraj | 2024 | All Rights Reserved"
+  }
+}
